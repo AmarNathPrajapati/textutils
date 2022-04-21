@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root')//jaha per id root hai waha per app component per dal do.
 );
 
 // If you want to start measuring performance in your app, pass a function
